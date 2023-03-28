@@ -1,0 +1,26 @@
+body{
+
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;}
+    
+
+    h1{
+
+    color: rgb(11, 244, 166);
+    }
+
+    h1#principal{
+
+        text-align: center;
+        background-color: azure;
+    }
+    h2{
+
+        color: blue;
+    }
+
+    .exemplos{
+
+        color: black;
+        
+    }

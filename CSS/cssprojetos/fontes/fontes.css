@@ -1,0 +1,21 @@
+body{
+
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 5px;
+  font-size: medium;
+}
+
+h1,h2{
+
+   font-family: 'Dancing Script', cursive;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 3em; 
+    text-align: center;
+
+}
+
+p{
+
+  text-align: justify;
+  text-indent: 15px;
+}
