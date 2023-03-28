@@ -1,0 +1,57 @@
+body{
+background-color:bisque;
+margin: 20px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3{
+    font-family: 'Dancing Script', cursive;    
+}
+
+h1{
+
+    font-family: 'Dancing Script', cursive;
+font-family: 'Permanent Marker', cursive;
+}
+
+a{
+    text-decoration: none;
+}
+a:active{
+color: blue;
+}
+
+
+a:visited{
+    color: red;
+}
+
+a:hover{
+    color: black;
+}
+
+header{
+    text-align: center;
+    position: sticky;
+    top: 0;
+    
+}
+footer{
+
+position: sticky;
+text-align: center;   
+
+}
+
+.imagem{
+    width: 50%;
+}
+
+nav, footer{
+   background-color: grey;
+   padding: 5px;
+   margin: 10px;
+}
+p{
+    text-align: justify
+}
