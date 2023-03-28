@@ -1,0 +1,22 @@
+body{
+
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a{
+
+    color: rgb(255, 132, 0);
+    text-decoration: none;
+    
+}
+
+a:visited{
+
+    color: darkred;
+
+}
+
+a:hover{
+    color: blue;
+    text-decoration: underline;
+}
